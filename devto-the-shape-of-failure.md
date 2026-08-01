@@ -3,15 +3,14 @@ title: "The Shape of Failure: Before You Blame the AI"
 published: false
 description: "AI projects rarely fail at a single point. Here is how data contracts, agent boundaries, property-based testing, and mutation testing reveal where failure actually enters the system."
 tags: ai, testing, python, softwaredevelopment
-# cover_image: https://REPLACE_WITH_A_1000x420_IMAGE_URL
+cover_image: https://raw.githubusercontent.com/copyleftdev/the-shape-of-failure/main/assets/shape-of-failure-cover.png
 # canonical_url: https://REPLACE_IF_THIS_WAS_PUBLISHED_ELSEWHERE_FIRST
 ---
 
 <!--
 Before publishing:
-1. Replace the cover_image placeholder and uncomment the field.
-2. Set canonical_url only if this article appeared elsewhere first.
-3. Change published to true only after previewing the Liquid tags.
+1. Set canonical_url only if this article appeared elsewhere first.
+2. Change published to true only after previewing the Liquid tags.
 -->
 
 Every automated system receives a particular shape of the world.

@@ -1,5 +1,7 @@
 # The Shape of Failure
 
+![A detailed human brain formed from turbulent cyan and amber particle-fluid currents on a deep navy field](assets/shape-of-failure-cover.png)
+
 An essay and executable reference implementation for a systems-level claim:
 before blaming an AI model, verify the data contract, the deliverable, every
 workflow boundary, and the tests used to recognize failure.
